@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** MARQUEZ JOSE MARI PONCE
-- **Course/Section:** BSIT [Section]
-- **Instructor:** [Instructor's Name]
+- **Course/Section:** BSIT 4I
+- **Instructor:** MS.JENKIELYN TORRES
 - **School Year:** 2026–2027
 
 ## 📂 Repository Structure
